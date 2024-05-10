@@ -1,4 +1,4 @@
-# Car Driving Game with OpenGL
+# Pixel Drifters
 
 Welcome to our project on making a car driving game using OpenGL! In this project, we're diving into the exciting world of computer graphics, where we'll create a cool game that lets you drive cars in a virtual environment.
 
